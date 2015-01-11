@@ -1,0 +1,7 @@
+# .gitignore
+
+## Include gitkeep files to keep folders tracked
+!**/.gitkeep
+
+render
+.tmp
