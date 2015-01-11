@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg8471"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="25.svg">
+  <defs
+     id="defs8473">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3837-2-7"
+       id="linearGradient4078"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,235.94788,695.47198)"
+       x1="740.82019"
+       y1="357.63239"
+       x2="1074.4446"
+       y2="357.63239" />
+    <linearGradient
+       id="linearGradient3837-2-7">
+      <stop
+         style="stop-color:#2e4f67;stop-opacity:0.20353982;"
+         offset="0"
+         id="stop3839-9-8" />
+      <stop
+         style="stop-color:#7e9cbd;stop-opacity:0.10619469;"
+         offset="1"
+         id="stop3841-81-8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3837-2-1-7">
+      <stop
+         style="stop-color:#2e4f67;stop-opacity:0.20353982;"
+         offset="0"
+         id="stop3839-9-83-7" />
+      <stop
+         style="stop-color:#7e9cbd;stop-opacity:0.10619469;"
+         offset="1"
+         id="stop3841-81-17-2" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#e7b000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="83.122177"
+     inkscape:cy="212.89081"
+     inkscape:document-units="px"
+     inkscape:current-layer="g7397"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata8476">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36218)">
+    <g
+       id="g7397"
+       transform="matrix(0.99865711,0,0,0.99865711,-2030.2085,2969.9177)">
+      <path
+         transform="matrix(0.96980628,0,0,0.96980628,2054.5896,-2001.9132)"
+         d="M 496,-180 C 496,-39.719674 382.28033,74 242,74 101.71967,74 -12,-39.719674 -12,-180 c 0,-140.28033 113.71967,-254 254,-254 140.28033,0 254,113.71967 254,254 z"
+         sodipodi:ry="254"
+         sodipodi:rx="254"
+         sodipodi:cy="-180"
+         sodipodi:cx="242"
+         id="path4591-5-0"
+         style="opacity:1;fill:#d4ab00;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
+         d="M 226.75 157.78125 L 226.75 236.53125 L 148 236.53125 L 148 315.25 L 226.75 315.25 L 226.75 394 L 305.46875 394 L 305.46875 315.25 L 384.21875 315.25 L 384.21875 236.53125 L 305.46875 236.53125 L 305.46875 157.78125 L 226.75 157.78125 z "
+         id="rect4187-0-3-3-1"
+         transform="matrix(1.0013447,0,0,1.0013447,2032.9385,-2432.8225)" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="M 216.75 137.78125 L 216.75 216.53125 L 138 216.53125 L 138 295.25 L 216.75 295.25 L 216.75 374 L 295.46875 374 L 295.46875 295.25 L 374.21875 295.25 L 374.21875 216.53125 L 295.46875 216.53125 L 295.46875 137.78125 L 216.75 137.78125 z "
+         transform="matrix(1.0013447,0,0,1.0013447,2032.9385,-2432.8225)"
+         id="rect4187-0-3-3" />
+    </g>
+  </g>
+</svg>
