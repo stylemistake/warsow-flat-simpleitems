@@ -127,8 +127,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="315.34115"
-     inkscape:cy="272.68876"
+     inkscape:cx="369.94047"
+     inkscape:cy="337.35813"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -156,25 +156,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-540.36218)">
-    <g
-       transform="matrix(3.8179902,0,0,3.8179846,-4273.2807,246.72491)"
-       id="g8724-2-3"
-       style="fill:#eaedee;fill-opacity:1"
-       inkscape:export-filename="/home/style/allicons.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         id="g8519-1-4"
-         transform="translate(76.14276,-39.594235)"
-         style="fill:#eaedee;fill-opacity:1">
-        <path
-           style="fill:#eaedee;fill-opacity:1;stroke:none"
-           d="m 1069.2971,158.34572 42.4298,48.73744 c 4.0881,2.8989 9.0974,4.59375 14.5,4.59375 13.8071,0 25,-11.13692 25,-24.875 0,-12.92111 -9.8974,-23.53259 -22.5625,-24.75 l 0,-0.0312 -1.1563,-0.0625 -58.211,-3.61244 z"
-           id="path8224-1-3"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccssccccc" />
-      </g>
-    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 99.997,700.11652 161.99656,186.0788 c 15.60833,11.06795 34.73378,17.53886 55.36086,17.53886 52.71537,0 95.44975,-42.52059 95.44975,-94.97236 0,-49.3326 -37.78817,-89.84707 -86.1434,-94.49512 L 99.997,700.11671 z"
+       id="path8224-1-3-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssccc" />
+    <path
+       style="fill:#eaedee;fill-opacity:1;stroke:none"
+       d="m 99.997449,700.11625 161.996561,186.0788 c 15.60833,11.06795 34.73378,17.53886 55.36086,17.53886 52.71537,0 95.44975,-42.52059 95.44975,-94.97236 0,-49.3326 -37.78817,-89.84707 -86.1434,-94.49512 L 99.997449,700.11644 z"
+       id="path8224-1-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssccc" />
   </g>
   <g
      inkscape:groupmode="layer"

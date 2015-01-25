@@ -127,10 +127,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="276.91062"
+     inkscape:cx="279.76776"
      inkscape:cy="239.03872"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -156,15 +156,28 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-540.36218)">
-    <path
-       style="fill:#994ed4;fill-opacity:1;stroke:none"
-       d="M 249.05466,729.83666 415.74,670.88618 357.52332,804.50282 96.26,921.83918 z"
-       id="rect6556-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/style/allicons.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-3441.1047,-108.11582)"
+       id="g6643">
+      <path
+         style="fill:#994ed4;fill-opacity:1;stroke:#202020;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 3690.1594,837.95198 3856.8447,779.0015 3798.628,912.61814 3537.3647,1029.9545 z"
+         id="rect6556-3-1-3-7-9-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/style/allicons.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#994ed4;fill-opacity:1;stroke:none"
+         d="m 3689.8429,836.98738 166.6853,-58.95048 -58.2167,133.61664 -261.2633,117.33636 z"
+         id="rect6556-3-1-30-5-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/style/allicons.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"

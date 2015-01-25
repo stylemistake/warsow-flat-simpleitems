@@ -127,7 +127,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="302.00065"
+     inkscape:cx="304.02096"
      inkscape:cy="211.71097"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -156,15 +156,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-540.36218)">
-    <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="rect3504-5-8-9-9"
-       d="M 59.596332,830.39306 320.22052,688.09017 298.61978,801.59899 452.40367,775.27235 190.50097,904.63419 211.74694,801.59899 z"
-       style="fill:#e5d800;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/style/allicons.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-3261.5807,-104.81456)"
+       id="g6807">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3504-5-8-9-9-1-2-7-5-9"
+         d="m 3587.5641,787.41598 -279.4412,141.3081 161.1782,-27.6157 -21.6492,113.82912 279.3865,-141.28062 -161.1234,27.5883 z"
+         style="fill:none;stroke:#202020;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3504-5-8-9-9-1-2-7-4"
+         d="m 3587.5643,787.41588 -279.4412,141.3081 161.1782,-27.6157 -21.6492,113.82922 279.3865,-141.28072 -161.1234,27.5883 z"
+         style="fill:#fef100;fill-opacity:1;stroke:none" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
