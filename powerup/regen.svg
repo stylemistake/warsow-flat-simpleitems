@@ -58,9 +58,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="481.67184"
-     inkscape:cy="135.39691"
+     inkscape:zoom="0.69999999"
+     inkscape:cx="586.70806"
+     inkscape:cy="257.60643"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -90,13 +90,13 @@
      transform="translate(0,-540.36218)">
     <path
        sodipodi:type="arc"
-       style="opacity:0.94999999999999996;fill:#e70000;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#f20000;fill-opacity:1;stroke:none"
        id="path4591-5-0-4-5-4"
        sodipodi:cx="242"
        sodipodi:cy="-180"
        sodipodi:rx="254"
        sodipodi:ry="254"
-       d="m 496,-180 a 254,254 0 1 1 -508,0 254,254 0 1 1 508,0 z"
+       d="M 496,-180 C 496,-39.719674 382.28033,74 242,74 101.71967,74 -12,-39.719674 -12,-180 c 0,-140.28033 113.71967,-254 254,-254 140.28033,0 254,113.71967 254,254 z"
        transform="matrix(1.007874,0,0,1.007874,12.094488,977.7795)" />
     <path
        sodipodi:type="arc"
@@ -106,7 +106,7 @@
        sodipodi:cy="-180"
        sodipodi:rx="254"
        sodipodi:ry="254"
-       d="m 496,-180 a 254,254 0 1 1 -508,0 254,254 0 1 1 508,0 z"
+       d="M 496,-180 C 496,-39.719674 382.28033,74 242,74 101.71967,74 -12,-39.719674 -12,-180 c 0,-140.28033 113.71967,-254 254,-254 140.28033,0 254,113.71967 254,254 z"
        transform="matrix(0.8060342,0,0,0.80603419,60.939718,941.4484)" />
     <path
        inkscape:connector-curvature="0"
@@ -115,7 +115,7 @@
        id="rect6610-2-8-9-6-5-2" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#e70000;fill-opacity:1;stroke:none"
+       style="fill:#f20000;fill-opacity:1;stroke:none"
        d="m 192.30209,694.36218 c -43.71447,0.73785 -61.10268,37.02928 -61.62647,60.88449 -9.68163,50.77281 87.27355,130.32164 125.32438,169.11551 38.05093,-38.79387 135.0061,-118.26869 125.32437,-169.04152 -0.52368,-23.8551 -17.912,-60.22063 -61.62647,-60.95848 -20.14773,0.55067 -50.49448,7.20694 -63.6979,45.42296 -13.20343,-38.21602 -43.55018,-44.87229 -63.69791,-45.42296 z"
        id="rect6610-2-8-9-6-5" />
   </g>

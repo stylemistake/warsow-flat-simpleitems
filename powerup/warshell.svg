@@ -50,38 +50,17 @@
          offset="1"
          id="stop3841-81-17-2" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3837-2-9"
-       id="linearGradient4174"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,-1476.0521,355.47198)"
-       x1="740.82019"
-       y1="357.63239"
-       x2="1074.4446"
-       y2="357.63239" />
-    <linearGradient
-       id="linearGradient3837-2-9">
-      <stop
-         style="stop-color:#2e4f67;stop-opacity:0.20353982;"
-         offset="0"
-         id="stop3839-9-5" />
-      <stop
-         style="stop-color:#7e9cbd;stop-opacity:0.10619469;"
-         offset="1"
-         id="stop3841-81-4" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#0080f5"
+     pagecolor="#fcca00"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="253.99105"
-     inkscape:cy="88.74092"
+     inkscape:zoom="0.98994948"
+     inkscape:cx="371.34292"
+     inkscape:cy="148.65702"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -111,14 +90,14 @@
      transform="translate(0,-540.36218)">
     <path
        sodipodi:type="arc"
-       style="opacity:0.94999999999999996;fill:#0080f5;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#00beff;fill-opacity:1;stroke:none"
        id="path4591-5-0-4-5-4"
        sodipodi:cx="242"
        sodipodi:cy="-180"
        sodipodi:rx="254"
        sodipodi:ry="254"
-       d="m 496,-180 a 254,254 0 1 1 -508,0 254,254 0 1 1 508,0 z"
-       transform="matrix(1.007874,0,0,1.007874,12.094488,977.7795)" />
+       d="M 496,-180 C 496,-39.719674 382.28033,74 242,74 101.71967,74 -12,-39.719674 -12,-180 c 0,-140.28033 113.71967,-254 254,-254 140.28033,0 254,113.71967 254,254 z"
+       transform="matrix(1.007874,0,0,1.007874,12.094489,977.77951)" />
     <path
        sodipodi:type="arc"
        style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
@@ -127,19 +106,12 @@
        sodipodi:cy="-180"
        sodipodi:rx="254"
        sodipodi:ry="254"
-       d="m 496,-180 a 254,254 0 1 1 -508,0 254,254 0 1 1 508,0 z"
-       transform="matrix(0.8060342,0,0,0.80603419,60.939718,941.44835)" />
+       d="M 496,-180 C 496,-39.719674 382.28033,74 242,74 101.71967,74 -12,-39.719674 -12,-180 c 0,-140.28033 113.71967,-254 254,-254 140.28033,0 254,113.71967 254,254 z"
+       transform="matrix(0.8060342,0,0,0.80603419,60.939717,941.44836)" />
     <path
-       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
-       d="M 261.99357,711.87725 C 232.77604,719.63954 202.84271,727.42114 174,728.39697 l 0,119.437 c 4.99277,39.23581 46.71825,79.39818 88.12243,80.04321 l 0,-0.0281 C 303.46269,927.12635 345.01505,887.00862 350,847.8341 l 0,-119.43699 c -28.84272,-0.97583 -58.77604,-8.75743 -87.99358,-16.51972 -0.004,-8.7e-4 -0.009,8.8e-4 -0.0127,0 z"
-       id="rect2996-9-8"
+       id="path8966-3"
+       d="m 296.76583,768.52722 h -59.38334 l -17.65448,45.1798 h 59.38337 l 17.65445,-45.1798 z M 466.56964,652.35097 446.66837,703.98494 H 202.0736 l 22.46957,19.36275 h 152.14936 l -38.19793,98.4271 46.54364,40.33913 -27.6053,70.99657 H 45.430345 l 19.9014,-51.63383 H 308.64248 L 286.49402,862.11392 H 141.08551 l 36.59293,-94.87733 -50.39558,-43.8889 27.60531,-70.99672 h 311.68147 z"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
-    <path
-       style="fill:#0080f5;fill-opacity:1;stroke:none"
-       d="M 255.99357,691.87754 C 226.77604,699.63983 196.84271,707.42143 168,708.39726 l 0,119.437 c 4.99277,39.23581 46.71825,79.39818 88.12243,80.04321 l 0,-0.0281 C 297.46269,907.12664 339.01505,867.00891 344,827.83439 l 0,-119.43699 c -28.84272,-0.97583 -58.77604,-8.75743 -87.99358,-16.51972 -0.004,-8.7e-4 -0.009,8.8e-4 -0.0127,0 z"
-       id="rect2996-9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
+       style="fill:#00beff;fill-opacity:1" />
   </g>
 </svg>
