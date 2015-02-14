@@ -121,13 +121,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#eaedee"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="369.94047"
+     inkscape:cx="371.96078"
      inkscape:cy="337.35813"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -163,7 +163,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccssccc" />
     <path
-       style="fill:#7b7b7b;fill-opacity:1;stroke:none"
+       style="fill:#7f7f7f;fill-opacity:1;stroke:none"
        d="m 99.997449,700.11625 161.996561,186.0788 c 15.60833,11.06795 34.73378,17.53886 55.36086,17.53886 52.71537,0 95.44975,-42.52059 95.44975,-94.97236 0,-49.3326 -37.78817,-89.84707 -86.1434,-94.49512 L 99.997449,700.11644 z"
        id="path8224-1-3"
        inkscape:connector-curvature="0"

@@ -15,7 +15,7 @@
    id="svg8471"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="instagun.svg">
+   sodipodi:docname="electro.svg">
   <defs
      id="defs8473">
     <linearGradient
@@ -118,17 +118,30 @@
          y="-541.83716"
          ry="33.474174" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3015">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/style/allicons.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3017"
+         d="M -255.00959,727.77687 -87.516134,784.39038 -215.83828,853.4991 -493.77329,784.37267 z"
+         style="fill:#00d3e5;fill-opacity:1;stroke:none" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#994ed4"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="279.76776"
-     inkscape:cy="239.03872"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="422.31902"
+     inkscape:cy="242.80427"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -147,37 +160,44 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Weapon"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-540.36218)">
-    <g
-       transform="translate(-3441.1047,-108.11582)"
-       id="g6643">
-      <path
-         style="fill:#994ed4;fill-opacity:1;stroke:#202020;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="M 3690.1594,837.95198 3856.8447,779.0015 3798.628,912.61814 3537.3647,1029.9545 z"
-         id="rect6556-3-1-3-7-9-7"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc"
-         inkscape:export-filename="/home/style/allicons.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <path
-         style="fill:#994ed4;fill-opacity:1;stroke:none"
-         d="m 3689.8429,836.98738 166.6853,-58.95048 -58.2167,133.61664 -261.2633,117.33636 z"
-         id="rect6556-3-1-30-5-6"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc"
-         inkscape:export-filename="/home/style/allicons.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/style/allicons.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect6556-3-8-5-5-2-3"
+       d="M 249.0547,729.83616 415.74,670.88568 357.5233,804.50231 96.260002,921.83868 z"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/style/allicons.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect6556-3-8-8-6-9"
+       d="M 249.0547,729.83616 415.74,670.88568 357.5233,804.50231 96.260002,921.83868 z"
+       style="fill:#994ed4;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"
+       id="rect3013"
+       width="419.67334"
+       height="103.46517"
+       x="-494.39417"
+       y="784.3725"
+       transform="matrix(0.78637151,-0.61775387,0.61775387,0.78637151,-0.0034143,0.00239614)"
+       inkscape:transform-center-x="-196.4713"
+       inkscape:transform-center-y="-88.559616"
+       clip-path="url(#clipPath3015)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -232,8 +252,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Size Guide"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        sodipodi:type="arc"
        style="opacity:0.25;fill:#e0ad00;fill-opacity:1;stroke:none;display:inline"

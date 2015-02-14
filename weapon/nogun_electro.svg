@@ -15,7 +15,7 @@
    id="svg8471"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="nogun_instagun.svg">
+   sodipodi:docname="nogun_electro.svg">
   <defs
      id="defs8473">
     <linearGradient
@@ -118,27 +118,40 @@
          y="-541.83716"
          ry="33.474174" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3015">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/style/allicons.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3017"
+         d="M -255.00959,727.77687 -87.516134,784.39038 -215.83828,853.4991 -493.77329,784.37267 z"
+         style="fill:#00d3e5;fill-opacity:1;stroke:none" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#7b7b7b"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="274.05348"
-     inkscape:cy="239.03872"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="419.49059"
+     inkscape:cy="242.80427"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1038"
-     inkscape:window-height="602"
-     inkscape:window-x="146"
-     inkscape:window-y="336"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata8476">
     <rdf:RDF>
@@ -147,24 +160,44 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Weapon"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-540.36218)">
     <path
-       style="fill:#7b7b7b;fill-opacity:1;stroke:none"
-       d="M 247.23409,712.39778 457.6125,637.99468 384.13553,806.63608 54.3875,954.72968 z"
-       id="rect6556-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/style/allicons.png"
+       inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-filename="/home/style/allicons.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect6556-3-8-5-5-2-3"
+       d="M 249.0547,729.83616 415.74,670.88568 357.5233,804.50231 96.260002,921.83868 z"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/style/allicons.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect6556-3-8-8-6-9"
+       d="M 249.0547,729.83616 415.74,670.88568 357.5233,804.50231 96.260002,921.83868 z"
+       style="fill:#7f7f7f;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"
+       id="rect3013"
+       width="419.67334"
+       height="103.46517"
+       x="-494.39417"
+       y="784.3725"
+       transform="matrix(0.78637151,-0.61775387,0.61775387,0.78637151,-0.0034143,0.00239614)"
+       inkscape:transform-center-x="-196.4713"
+       inkscape:transform-center-y="-88.559616"
+       clip-path="url(#clipPath3015)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -214,5 +247,22 @@
          y="-1308.3622"
          transform="scale(-1,-1)" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Size Guide"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.25;fill:#e0ad00;fill-opacity:1;stroke:none;display:inline"
+       id="path3010"
+       sodipodi:cx="254.28572"
+       sodipodi:cy="258.42856"
+       sodipodi:rx="254.28572"
+       sodipodi:ry="256.42856"
+       d="m 508.57144,258.42856 a 254.28572,256.42856 0 1 1 -508.57144,0 254.28572,256.42856 0 1 1 508.57144,0 z"
+       transform="matrix(0.63707864,0,0,0.63175493,94,92.736478)" />
   </g>
 </svg>
