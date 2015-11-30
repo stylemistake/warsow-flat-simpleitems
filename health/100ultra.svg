@@ -14,7 +14,7 @@
    height="512"
    id="svg8471"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="100ultra.svg">
   <defs
      id="defs8473">
@@ -53,10 +53,10 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#75469a"
+     pagecolor="#00a4dd"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="393.534"
@@ -79,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,13 +93,13 @@
        id="g7527">
       <path
          transform="matrix(0.96980628,0,0,0.96980628,3727.4423,-2025.2845)"
-         d="m 496,-180 a 254,254 0 1 1 -508,0 254,254 0 1 1 508,0 z"
+         d="M 496,-180 A 254,254 0 0 1 242,74 254,254 0 0 1 -12,-180 254,254 0 0 1 242,-434 254,254 0 0 1 496,-180 Z"
          sodipodi:ry="254"
          sodipodi:rx="254"
          sodipodi:cy="-180"
          sodipodi:cx="242"
          id="path4591-5-0-4-5-4"
-         style="fill:#75469a;fill-opacity:1;stroke:none"
+         style="fill:#00a4dd;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
       <path
          inkscape:connector-curvature="0"
