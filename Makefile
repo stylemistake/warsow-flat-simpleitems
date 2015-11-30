@@ -21,7 +21,7 @@ dist/gfx/%.tga: .tmp/%.png
 	convert $< $@
 
 dist/gfx_items_flat.pk3: $(target_files)
-	zip -9 $@ $^
+	cd $(@D) && zip -r -9 $(@F) gfx
 
 
 ## --------------------------------------------------------
