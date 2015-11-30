@@ -16,13 +16,6 @@ Pre-requisites:
 This will render all icons and package them into `.pk3`:
 
 ```
-make
-```
-
-To speed up rendering, use `-j` flag (where `$(nproc)` resolves to number of
-CPU cores on your machine):
-
-```
 make -j $(nproc)
 ```
 
