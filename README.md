@@ -7,22 +7,28 @@ Forum thread: http://www.warsow.net/forum/thread/16468
 
 ### Rendering
 
-There is a helper script to convert all icons to tga. You'll need:
+Pre-requisites:
 
+* GNU Make
 * ImageMagick `convert` tool (`apt-get install imagemagick`)
 * Inkscape (`apt-get install inkscape`)
 
-Run render script:
+This will render all icons and package them into `.pk3`:
 
 ```
-bash render.sh
+make
 ```
 
-It will render icons to TGA inside `render` directory.
+To speed up rendering, use `-j` flag (where `$(nproc)` resolves to number of
+CPU cores on your machine):
+
+```
+make -j $(nproc)
+```
 
 
 ### Contacts
 
-Email: stylemistake@gmail.com
+Aleksej Komarov <[stylemistake@gmail.com]>
 
-Web: [stylemistake.com](http://stylemistake.com)
+[stylemistake@gmail.com]: mailto:stylemistake@gmail.com
